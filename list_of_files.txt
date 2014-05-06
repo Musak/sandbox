@@ -1,0 +1,18 @@
+42.txt
+BlackBox.txt
+bszabolcs.txt
+DB.txt
+EletErtelmePeregiB.txt
+Essence of Life.txt
+hihi.txt
+kerdes.txt
+LICENSE
+life.txt
+list_of_files.txt
+lorem.txt
+mistvan.txt
+new_file.txt
+README.md
+sed
+txt.txt
+warg
